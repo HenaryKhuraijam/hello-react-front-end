@@ -110,7 +110,7 @@ GitHub pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## [Link hello-rails-back-end](git@github.com:HenaryKhuraijam/hello-rails-back-end.git)
+## [Link hello-rails-back-end](https://github.com/HenaryKhuraijam/hello-rails-back-end/tree/feature)
 
 <!-- AUTHOR -->
 
